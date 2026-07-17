@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Lmde Adjustment](https://samwhelp.github.io/lmde-adjustment/) | [GitHub](https://github.com/samwhelp/lmde-adjustment) |
 | [Lmde 探索筆記](https://samwhelp.github.io/note-about-lmde/) | [GitHub](https://github.com/samwhelp/note-about-lmde) |
+| [Lmde ISO Builder 探索筆記](https://samwhelp.github.io/note-about-lmde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-lmde-iso-builder) |
 | [LinuxMint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
 
 
